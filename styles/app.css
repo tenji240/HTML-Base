@@ -70,6 +70,7 @@ a:active {
   width: 100%;
   margin: auto;
   padding: 40px;
+  background-color: orange;
 }
 #events .row {
   height: 450px;
